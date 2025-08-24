@@ -42,7 +42,8 @@ I am a **Computer Science student** with a strong foundation in **software devel
 ## Certification
 - **Machine Learning Specialization - Coursera & DeepLearning.AI**  
   Completed: 2025  
-  Skills: Supervised & Unsupervised Learning, Neural Networks, Regression, Classification 
+  Skills: Supervised & Unsupervised Learning, Neural Networks, Regression, Classification
+  
   [View Certificate](https://coursera.org/share/c19ee96b2f6c8234d8a48448964ab2a9)
 
 ---
