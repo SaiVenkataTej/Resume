@@ -5,20 +5,11 @@ I am a **Computer Science student** with a strong foundation in **software devel
 
 ---
 
-## 🏆 Certification
-- **Machine Learning Specialization - Coursera & DeepLearning.AI**  
-  Completed: 2025  
-  Skills: Supervised & Unsupervised Learning, Neural Networks, Regression, Classification  
-  
-  [View Certificate](https://coursera.org/share/c19ee96b2f6c8234d8a48448964ab2a9)
-
----
-
 ## 🎓 Education
 - **B.Tech in Computer Science and Engineering (CSE) - University Name**  
   Specialization: Artificial Intelligence & Machine Learning  
   Duration: 2023 - Present (3rd Year)
-
+  
 ---
 
 ## 💻 Skills
@@ -37,8 +28,6 @@ I am a **Computer Science student** with a strong foundation in **software devel
 - Supervised & Unsupervised Learning  
 - AI/ML Tools: NumPy, Pandas, Matplotlib, Scikit-learn
 
----
-
 ## 🌱 Soft Skills
 
 - **Problem Solving:** Ability to analyze issues, identify root causes, and implement effective solutions.  
@@ -47,6 +36,14 @@ I am a **Computer Science student** with a strong foundation in **software devel
 - **Time Management:** Prioritizes tasks efficiently to meet deadlines and deliver quality work. 
 - **Critical Thinking:** Applies logical reasoning to approach challenges and make data-driven decisions.  
 - **Curiosity & Continuous Learning:** Passionate about exploring new tools, frameworks, and AI/ML techniques.
+
+---
+
+## 🏆 Certification
+- **Machine Learning Specialization - Coursera & DeepLearning.AI**  
+  Completed: 2025  
+  Skills: Supervised & Unsupervised Learning, Neural Networks, Regression, Classification 
+  [View Certificate](https://coursera.org/share/c19ee96b2f6c8234d8a48448964ab2a9)
 
 ---
 
