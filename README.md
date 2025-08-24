@@ -52,10 +52,10 @@ I am a **Computer Science student** with a strong foundation in **software devel
 ## 📫 Contact
 - **Email:** [saivenkattejasomavarapu@gmail.com](mailto:saivenkattejasomavarapu@gmail.com)  
 - **Phone:** +91 9347689324
-- **LinkedIn:** [[https://www.linkedin.com/in/](https://www.linkedin.com/in/sai-venkata-teja-somavarapu-45a3a6290/)] 
-- **GitHub:** [[https://github.com/](https://github.com/SaiVenkataTej)]  
-- **Coursera:** [[https://www.coursera.org/](https://www.coursera.org/user/555d12635743a06853e7564133df2043)]
-- **LeetCode:** [[http://leetcode.com/u/](http://leetcode.com/u/SaiVenkatTejaS/)]
+- **LinkedIn:** [https://www.linkedin.com/in/](https://www.linkedin.com/in/sai-venkata-teja-somavarapu-45a3a6290/)] 
+- **GitHub:** [https://github.com/](https://github.com/SaiVenkataTej)]  
+- **Coursera:** [https://www.coursera.org/](https://www.coursera.org/user/555d12635743a06853e7564133df2043)]
+- **LeetCode:** [http://leetcode.com/u/](http://leetcode.com/u/SaiVenkatTejaS/)]
 
 ---
 
