@@ -1,18 +1,18 @@
 # S.Sai Venkata Teja - Resume
 
-## 🌟 About Me
+## About Me
 I am a **Computer Science student** with a strong foundation in **software development** and a specialization in **AI and Machine Learning**. I enjoy using AI tools to enhance productivity and solve problems, and I am eager to apply my coding skills and contribute to building impactful software solutions.
 
 ---
 
-## 🎓 Education
+## Education
 - **B.Tech in Computer Science and Engineering (CSE) - University Name**  
   Specialization: Artificial Intelligence & Machine Learning  
   Duration: 2023 - Present (3rd Year)
   
 ---
 
-## 💻 Skills
+## Skills
 
 **Programming Languages:** Python, Java, SQL, C++  
 
@@ -28,7 +28,7 @@ I am a **Computer Science student** with a strong foundation in **software devel
 - Supervised & Unsupervised Learning  
 - AI/ML Tools: NumPy, Pandas, Matplotlib, Scikit-learn
 
-## 🌱 Soft Skills
+##Soft Skills
 
 - **Problem Solving:** Ability to analyze issues, identify root causes, and implement effective solutions.  
 - **Adaptability:** Quick to learn new technologies and adapt to changing project requirements.  
@@ -39,7 +39,7 @@ I am a **Computer Science student** with a strong foundation in **software devel
 
 ---
 
-## 🏆 Certification
+## Certification
 - **Machine Learning Specialization - Coursera & DeepLearning.AI**  
   Completed: 2025  
   Skills: Supervised & Unsupervised Learning, Neural Networks, Regression, Classification 
@@ -47,7 +47,7 @@ I am a **Computer Science student** with a strong foundation in **software devel
 
 ---
 
-## 📫 Contact
+## Contact
 - **Email:** [saivenkattejasomavarapu@gmail.com](mailto:saivenkattejasomavarapu@gmail.com)  
 - **Phone:** +91 9347689324
 - **LinkedIn:** [https://www.linkedin.com/in/](https://www.linkedin.com/in/sai-venkata-teja-somavarapu-45a3a6290/)] 
